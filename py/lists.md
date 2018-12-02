@@ -1,0 +1,1 @@
+[Slicing/Indexing](https://docs.python.org/2.3/whatsnew/section-slices.html)
