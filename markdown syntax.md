@@ -17,7 +17,8 @@ Header
  
 **Note:** header one and six should rarely be used, cannot bold inside header, but can italicize
 
-Hyperlinks: [Visit GitHub!](www.github.com)
+Hyperlinks: [Google](www.google.com)
+ [Link](www.google.com) in text.
 
 
 
