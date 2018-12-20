@@ -1,21 +1,21 @@
 New line: insert two or more spaces in the end of a line
 
-Italics: surround with _
+Italics: surround with _  
  _sample_
 
-Bold: surround with **
+Bold: surround with **  
  **sample**
  
-Italics + Bold:
+Italics + Bold:  
  **_sample_**
 
-Header
- #one
- ##two
- ###three
- ####four
- #####five
- ######six
+Header  
+ #one  
+ ##two  
+ ###three  
+ ####four  
+ #####five  
+ ######six  
  
 **Note:** header one and six should rarely be used, cannot bold inside header, but can italicize
 
