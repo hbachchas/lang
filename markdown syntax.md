@@ -10,12 +10,12 @@
  **_sample_**
 
 **Header:**
- #one  
- ##two  
- ###three  
- ####four  
- #####five  
- ######six  
+ # one  
+ ## two  
+ ### three  
+ #### four  
+ ##### five  
+ ###### six  
  
 **Note:** header one and six should rarely be used, cannot bold inside header, but can italicize
 
