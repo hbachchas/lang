@@ -1,27 +1,5 @@
-**New line:** insert two or more spaces in the end of a line
-
-**Italics:** surround with _  
- _sample_
-
-**Bold:** surround with **  
- **sample**
- 
-**Italics + Bold:**  
- **_sample_**
-
-**Header:**
- # one  
- ## two  
- ### three  
- #### four  
- ##### five  
- ###### six  
- 
-**Note:** header one and six should rarely be used, cannot bold inside header, but can italicize
-
-**Hyperlinks:**
-
-**Inline links:** [Google](www.google.com)  
- [Link](www.google.com) in text.  
-**Reference links:**
-
+[quick cheat-sheet 1](https://www.markdownguide.org/cheat-sheet/)  
+[quick cheat-sheet 2: _page 50_](https://www.markdownguide.org/assets/book/markdown-guide.pdf)
+[extended cheat-sheet 1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Reference links](https://www.markdowntutorial.com/lesson/3/)  
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
