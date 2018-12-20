@@ -19,9 +19,9 @@
  
 **Note:** header one and six should rarely be used, cannot bold inside header, but can italicize
 
-**Hyperlinks:**  
-**Inline links:** [Google](www.google.com)  
- [Link](www.google.com) in text.
+**Hyperlinks:**
 
+**Inline links:** [Google](www.google.com)  
+ [Link](www.google.com) in text.  
 **Reference links:**
 
