@@ -1,3 +1,5 @@
+New line: insert two or more spaces in the end of a line
+
 Italics: surround with _
  _sample_
 
