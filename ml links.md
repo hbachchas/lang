@@ -27,6 +27,7 @@
 4. [MLP](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/08_Multilayer_Perceptron.ipynb)  
 5. [Cheat sheet](https://github.com/Tgaaly/pytorch-cheatsheet)  
 6. [pytorch kaggle starter](https://github.com/bfortuner/pytorch-kaggle-starter)- with some experiments  
+
 (_Interesting topics in PyTorch_)  
 [Transposed convolution in pytorch](https://towardsdatascience.com/is-the-transposed-convolution-layer-and-convolution-layer-the-same-thing-8655b751c3a1)  
 
