@@ -9,6 +9,7 @@
 [ML 4](https://github.com/machine-learning-projects)  
 _Datasets_  
 [List of public datasets](https://github.com/awesomedata/awesome-public-datasets)
+[Medical datasets](https://github.com/beamandrew/medical-data)  
 
 [**Advanced/Exhaustive**]  
 [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  
@@ -42,3 +43,6 @@ _Datasets_
 **Tensorflow**  
 [tensorflow tutorial notebooks](https://github.com/nlintz/TensorFlow-Tutorials)  
 [awesome tensorflow](https://github.com/jtoy/awesome-tensorflow)  
+
+**Reinforcement Learning**  
+[awesome RL](https://github.com/aikorea/awesome-rl)  
