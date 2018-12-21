@@ -50,3 +50,5 @@ _Datasets_
 **Numenta - HTM**  
 [Code - git](https://github.com/numenta/nupic)  
 [Youtube](https://www.youtube.com/user/OfficialNumenta)  
+_Notes_  
+Its important to see how the connections are made in their model of neocortex. i.e. is it following a hebbian rule or what?  
