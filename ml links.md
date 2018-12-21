@@ -52,3 +52,8 @@ _Datasets_
 [Youtube](https://www.youtube.com/user/OfficialNumenta)  
 _Notes_  
 Its important to see how the connections are made in their model of neocortex. i.e. is it following a hebbian rule or what?  
+HTM summary:  
+- biologically neuron is binary (it is either spiking or not)
+- SDRs are important
+- neocortex is hierarchical (doesn't know what it is given, it has some idea about it). passes information to higher layers
+- neocortex capsule is repeated through-out the neocortex plain of the brain
