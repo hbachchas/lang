@@ -17,11 +17,11 @@
 **Pandas**  
 [Important features examples](http://nbviewer.jupyter.org/gist/wesm/4757075/PandasTour.ipynb)  
 
-**Deep learning**
+**Deep learning**  
 [Awesome deep learning - github](https://github.com/ChristosChristofidis/awesome-deep-learning#tutorials)  
 [Great explanation on convolution, all kinds of padding, deconvolution, transposed convolution](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)  
 
-**PyTorch**
+**PyTorch**  
 [Quick Basics](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/07_PyTorch.ipynb#scrollTo=T3-6nGgvECH9)  
 [Basics](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)  
 [Advanced](https://github.com/yunjey/pytorch-tutorial)  
