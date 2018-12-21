@@ -34,3 +34,6 @@
 
 **Torch**  
 [Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)  
+
+**Tensorflow**  
+[Python notebooks](https://github.com/nlintz/TensorFlow-Tutorials)  
