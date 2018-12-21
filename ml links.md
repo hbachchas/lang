@@ -11,11 +11,14 @@
 [ML: long list of sources (multi-language)](https://github.com/josephmisiti/awesome-machine-learning)  
 [Interesting notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)  
 [ML experiments notebooks](https://github.com/ogrisel/notebooks)  
-[Practical ML notebooks](https://github.com/XifengGuo/handson-ml)
+[Practical ML notebooks](https://github.com/XifengGuo/handson-ml)  
+[Goku practical ML](https://goku.me/practicalAI)
 
 **Pandas**  
 [Important features examples](http://nbviewer.jupyter.org/gist/wesm/4757075/PandasTour.ipynb)
 
 **PyTorch**  
-1. [Basics](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)  
-2. [Advanced](https://github.com/yunjey/pytorch-tutorial)
+1. [Quick Basics](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/07_PyTorch.ipynb#scrollTo=T3-6nGgvECH9)  
+2. [Basics](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)  
+3. [Advanced](https://github.com/yunjey/pytorch-tutorial)  
+4. [MLP](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/08_Multilayer_Perceptron.ipynb)  
