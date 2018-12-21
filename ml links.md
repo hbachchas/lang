@@ -2,6 +2,7 @@
 [ML 1](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
 [ML 2](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)  
 [ML 3 - scratch](https://github.com/zotroneneis/machine_learning_basics)  
+[ML road map](https://github.com/hangtwenty/dive-into-machine-learning)  
 
 **Projects**  
 [ML 4](https://github.com/machine-learning-projects)  
@@ -37,3 +38,4 @@
 
 **Tensorflow**  
 [tensorflow tutorial notebooks](https://github.com/nlintz/TensorFlow-Tutorials)  
+[Awesome tensorflow](https://github.com/jtoy/awesome-tensorflow)  
