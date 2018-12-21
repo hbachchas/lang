@@ -13,7 +13,7 @@
 [ML experiments notebooks](https://github.com/ogrisel/notebooks)  
 [Practical ML notebooks](https://github.com/XifengGuo/handson-ml)  
 [Goku practical ML](https://goku.me/practicalAI)  
-(_Interesting topics in PyTorch_)
+(_Interesting topics in PyTorch_)  
 [Transposed convolution in pytorch](https://towardsdatascience.com/is-the-transposed-convolution-layer-and-convolution-layer-the-same-thing-8655b751c3a1)  
 
 **Pandas**  
