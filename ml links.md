@@ -18,10 +18,10 @@
 **Pandas**  
 [Important features examples](http://nbviewer.jupyter.org/gist/wesm/4757075/PandasTour.ipynb)  
 
-**Deep learning**  
+**Deep learning**
 1. [Great explanation on convolution, all kinds of padding, deconvolution, transposed convolution](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)  
 
-**PyTorch**  
+**PyTorch**
 1. [Quick Basics](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/07_PyTorch.ipynb#scrollTo=T3-6nGgvECH9)  
 2. [Basics](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)  
 3. [Advanced](https://github.com/yunjey/pytorch-tutorial)  
