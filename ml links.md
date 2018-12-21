@@ -7,6 +7,8 @@
 
 **Projects**  
 [ML 4](https://github.com/machine-learning-projects)  
+_Datasets_  
+[List of public datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 [**Advanced/Exhaustive**]  
 [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  
