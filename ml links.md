@@ -46,3 +46,7 @@ _Datasets_
 
 **Reinforcement Learning**  
 [awesome RL](https://github.com/aikorea/awesome-rl)  
+
+**Numenta - HTM**  
+[Code - git](https://github.com/numenta/nupic)  
+[Youtube](https://www.youtube.com/user/OfficialNumenta)  
