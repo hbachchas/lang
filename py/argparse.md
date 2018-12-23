@@ -18,4 +18,6 @@ print(c.st)
 print(vars(c))
 ```
 
-Namespace is a simple class in module argparse
+* Namespace is a simple class in module argparse
+* any other class can also take its place such as in above code the class C
+* vars converts the object/class/variables etc. into a dictonary
