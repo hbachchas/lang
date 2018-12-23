@@ -22,6 +22,6 @@ print(np.random.randn(2,3))
 
 Shuffled array with module: random
 ```python
-a = v
+a = range(0,5)
 random.sample(a, len(a))
 ```
