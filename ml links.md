@@ -2,6 +2,7 @@
 [ML 1](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)  
 [ML 2](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)  
 [ML 3 - scratch](https://github.com/zotroneneis/machine_learning_basics)  
+[ML 4 - scratch](https://github.com/eriklindernoren/ML-From-Scratch)  
 [ML road map](https://github.com/hangtwenty/dive-into-machine-learning)  
 [Google crash course](https://developers.google.com/machine-learning/crash-course/) | [Nano degree certification program](https://in.udacity.com/course/deep-learning--ud730-india) | [Google AI education blog](https://ai.google/education)  
 
