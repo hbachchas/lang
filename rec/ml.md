@@ -1,2 +1,2 @@
 **ML from scractch**  
-[eriklindernoren](https://github.com/eriklindernoren/ML-From-Scratch) | 
+[eriklindernoren : ML scratch](https://github.com/eriklindernoren/ML-From-Scratch) | [eriklindernoren : scratch : Napkin ML](https://github.com/eriklindernoren/NapkinML)
