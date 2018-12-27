@@ -57,3 +57,6 @@ HTM summary:
 - SDRs are important
 - neocortex is hierarchical (doesn't know what it is given, it has some idea about it). passes information to higher layers
 - neocortex capsule is repeated through-out the neocortex plain of the brain
+
+---
+Load data --> scale/strech/reshape data --> define model -> compile -> fit -> evaluate -> save plots/weights
