@@ -18,4 +18,5 @@ squared = list(map(lambda x: x**2, items))  # applies a function to all the item
 from functools import reduce
 product = reduce((lambda x, y: x * y), [1, 2, 3, 4]) # applies a rolling computation to sequential pairs of values in a list
 ```
-[lambda:anonymous-functions:filter:map:reduce/](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+[lambda:anonymous-functions:filter:map:reduce/](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)  
+[property decorator](https://www.programiz.com/python-programming/property)
