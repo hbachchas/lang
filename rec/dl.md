@@ -5,4 +5,5 @@
 **Object Detection**  
 [YOLOv3 in PyTorch](https://github.com/eriklindernoren/PyTorch-YOLOv3)
 
-[LSTM from scratch](https://github.com/HIPS/autograd/blob/master/examples/lstm.py)
+*From scratch*
+[LSTM](https://github.com/HIPS/autograd/blob/master/examples/lstm.py) | [NTM](https://github.com/DoctorTeeth/diffmem/blob/512aadeefd6dbafc1bdd253a64b6be192a435dc3/ntm/ntm.py)
